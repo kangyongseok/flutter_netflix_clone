@@ -90,7 +90,7 @@ class _DetailScreenState extends State<DetailScreen> {
                                   padding: EdgeInsets.all(5),
                                   alignment: Alignment.centerLeft,
                                   child: Text(
-                                    '출연: 현빈, 손예진, 서지혜\n제작자: 이정효, 박지은',
+                                    '출연: 현빈, 손예진, 서지혜 제작자: 이정효, 박지은',
                                     style: TextStyle(
                                       color: Colors.white60,
                                       fontSize: 12,

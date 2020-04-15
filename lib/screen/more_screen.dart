@@ -77,8 +77,7 @@ class MoreScreen extends StatelessWidget {
                   )
                 )
               )
-
-            )
+            ),
           ],
         ),
       ),
